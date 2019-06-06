@@ -1,0 +1,39 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="countdown.com" resolutions="1x" timestamp="1559807302308">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3845429972" ref="index"/>
+    <file name="courses.css" crc="287027855" ref="courses"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:courses"/>
+    <file name="museutils.js" crc="340535759" ref="index:courses"/>
+    <file name="whatinput.js" crc="86476730" ref="index:courses"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:courses"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:courses"/>
+    <file name="require.js" crc="7928878" ref="index:courses"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="asset 5my discussion.png" crc="220429068" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 6resources.png" crc="203063581" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u349_states.png" crc="3940498510" ref="index"/>
+    <file name="u349_states-r.png" crc="3940498510" ref="index"/>
+    <file name="u349_states-m.png" crc="4081827754" ref="index"/>
+    <file name="u197-4.png" crc="3974650784" ref="index"/>
+    <file name="u200-4.png" crc="458538687" ref="index"/>
+    <file name="u206-4.png" crc="3761479188" ref="index"/>
+    <file name="wecare_agents_supervisors.jpg" crc="481325904" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 8activities.png" crc="224294552" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3764582425" seo="true" mt="1559807046061" redirect="true"/>
+  <file name="courses.html" crc="3999798254" seo="true" mt="1559807295363" redirect="true"/>
+</manifest>
